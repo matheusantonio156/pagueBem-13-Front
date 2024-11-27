@@ -1,6 +1,5 @@
 # 🌟 Pague Bem Brasil Frontend  
 
-![Pague Bem Logo](https://via.placeholder.com/150x80) <!-- Substitua pela URL do logo -->
 
 ## 🖥️ *Visão Geral*  
 O *Pague Bem Brasil Frontend* é uma solução digital para gestão de cobranças e organização de dívidas. Com uma interface moderna e interativa, a aplicação exibe indicadores analíticos, como índices de interação, regularidade, pagamento e reputação, ajudando credores e devedores a tomar decisões financeiras de forma eficiente e personalizada.
